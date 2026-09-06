@@ -1,0 +1,2 @@
+rootProject.name = "EndlessRunner3D"
+include ':app'
